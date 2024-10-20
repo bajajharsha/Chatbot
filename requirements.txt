@@ -2,3 +2,14 @@ langchain_core
 python-dotenv
 streamlit
 langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pyPDF
+chromadb
+faiss-cpu
+langchain-ollama
+langchain-pinecone 
+pinecone-notebooks
